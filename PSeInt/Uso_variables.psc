@@ -3,7 +3,7 @@ Algoritmo Uso_variables
 	// Definicion de variable
 	Definir edad Como Entero;
 	// Asignacion de variable
-	edad <- 23;
+	edad = 23;
 	// Acceder al valor de la variable
 	Escribir 'La edad Asignada es:', edad;
 	// Uso de variables de cadena
